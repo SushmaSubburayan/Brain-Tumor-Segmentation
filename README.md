@@ -1,6 +1,6 @@
 # Brain-Tumor-Segmentation
 This is the python implementation of the U-Net architecture for segmentation of brain tumors using Tensorflow.
-BraTS 2020 data set is used in this implementation.
+BraTS 2020 data set was used in this implementation.
 
 Technology Stack Used:
 ----------------------
