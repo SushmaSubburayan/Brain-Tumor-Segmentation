@@ -14,8 +14,3 @@ Files for brain tumour segementation:
 --------------------------------------
 Brain_Tumour_Segmentation.ipynb
 <br/>Brain_Tumour_Segmentation.py
-
-Files for brain tumour segementation with data augmentation:
------------------------------------------------------------
-Brain_Tumour_Segmentation_DataAugmentation.ipynb
-<br/>Brain_Tumour_Segmentation_DataAugmentation.py
