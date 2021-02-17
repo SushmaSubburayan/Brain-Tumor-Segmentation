@@ -10,7 +10,7 @@ Technology Stack Used:
 <br/>4.Nimblebox environment
 <br/>5.Jupyter Notebook
 
-Files for brain tumour segementation:
+Files for Brain Tumour Segementation:
 --------------------------------------
 Brain_Tumour_Segmentation.ipynb
 <br/>Brain_Tumour_Segmentation.py
